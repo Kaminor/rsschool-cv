@@ -1,4 +1,5 @@
-![Zubarev Ivan](/rs_school/2.jpg)
+<image src="/rs_school/2.jpg" alt="Zubarev Ivan>
+
 # Zubarev Ivan
 # My contact info:
 * __phone:__ +798189857551
