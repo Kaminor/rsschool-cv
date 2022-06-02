@@ -1,4 +1,4 @@
-![Zubarev Ivan] (/rs_school/2.jpg)
+![Zubarev Ivan](/rs_school/2.jpg)
 # Zubarev Ivan
 # My contact info:
 * __phone:__ +798189857551
