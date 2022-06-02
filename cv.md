@@ -8,9 +8,9 @@
 # About me
 I'm 24 years old. I live in Russia. My goal is to become a frontend-developer. That's why I'm here.
 * __My strengths:__
- * Team playing
- * Diligence
- * Quick learner
+  * Team playing
+  * Diligence
+  * Quick learner
 # Skills
 * GitHub
 # Code example:
@@ -20,7 +20,7 @@ I'm 24 years old. I live in Russia. My goal is to become a frontend-developer. T
 # Experience
 # Education
 * __Peter the Great St.Petersburg Polytechnic University__
- * forensic expert
+  * forensic expert
 # Languages
 * __Russian__ - native speaker
 * __English__ - A1
