@@ -1,1 +1,1 @@
-# rsschool-cv
+https://kaminor.github.io/rsschool-cv/cv
