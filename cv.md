@@ -12,3 +12,14 @@ I'm 24 years old. I live in Russia. My goal is to become a frontend-developer. T
   * Quick learner
 # Skills
 * GitHub
+# Code example:
+`function multiply(a, b){
+  return a * b
+}`
+# Experience
+# Education
+* __Peter the Great St.Petersburg Polytechnic University__
+  * forensic expert
+# Languages
+* __Russian__ - native speaker
+* __English__ - A1
